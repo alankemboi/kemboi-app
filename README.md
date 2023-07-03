@@ -1,11 +1,14 @@
-# Turborepo Starter Pack
+# 🌐Website➡️ [https://kemboi.app](https://kemboi.app)
 
 This is an opinionated Javascript/Typescript monorepo starter pack built on top-notch technologies that enables you to
 focus on business logic instead of complex project setup.
 
 Free. Open Source.
+> Forked from [@jakub](https://twitter.com/rzbzes)
 
-Created and maintained by [@jakubhavej](https://twitter.com/jakubhavej)
+
+Created and maintained by [@rxbzez](https://twitter.com/rzbzes)
+
 
 ## What's inside?
 
@@ -40,7 +43,7 @@ A **work-in-progress packages:**
 Clone the repository:
 
 ```sh
-git clone git@github.com:jhavej/turbo-starter.git
+git clone git@github.com:alankemboi/turbo-starter.git
 ```
 
 Install `pnpm` and `Node v18.16.0` (preferably via [nvm](https://github.com/nvm-sh))
