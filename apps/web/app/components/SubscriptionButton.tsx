@@ -17,7 +17,7 @@ export const SubscriptionButton = () => {
   }
 
   return (
-    <Link href={session ? "#" : "/auth"} className="w-full">
+    <Link href={session ? "#" : "https://kemboi.app/subscribe"} className="w-full">
       <Button className="w-full" disabled={!!session}>
         {session ? (
           <>

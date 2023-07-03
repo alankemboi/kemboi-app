@@ -10,12 +10,10 @@ const Homepage = () => (
     <section className="md:basis-1/2">
       <div>
         <h1 className="text-3xl font-extrabold tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl mb-3">
-          Save time on project setup. Ship apps fast.
+          I own a computer.
         </h1>
         <p className="text-lg text-muted-foreground">
-          The starter pack built on top-notch technologies that enables you to
-          focus on business logic instead of complex project setup. Free. Open
-          Source.
+         I hope you enjoy exploring my portfolio and getting a glimpse into my creative world
         </p>
       </div>
 
@@ -26,7 +24,7 @@ const Homepage = () => (
       <Link href={siteConfig.links.github} target="_blank" rel="noreferrer">
         <Button>
           <GitHub className="mr-2 h-4 w-4" />
-          Clone on GitHub
+          Check on Github
         </Button>
       </Link>
     </section>

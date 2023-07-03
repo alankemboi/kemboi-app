@@ -28,11 +28,11 @@ const Welcome = () => (
   <Card className="rounded-2xl shadow-xl">
     <CardContent className="flex gap-4 pt-6">
       <Avatar className="h-10 w-10">
-        <AvatarImage src="/images/profile-photo.jpg" alt="Jakub Havej" />
-        <AvatarFallback>JH</AvatarFallback>
+        <AvatarImage src="/images/profile-photo.jpg" alt="Alan Kemboi" />
+        <AvatarFallback>AK</AvatarFallback>
       </Avatar>
       <div className="flex-1 space-y-1">
-        <h3 className="text-sm font-semibold">Hi, I&apos;m Jakub!</h3>
+        <h3 className="text-sm font-semibold">Hi, I&apos;m Alan Kemboi!</h3>
         <p className="text-sm text-muted-foreground">
           It used to take me a long time to complete the initial project setup.
           It made business idea validations tedious and ineffective. These days
@@ -40,12 +40,12 @@ const Welcome = () => (
         </p>
         <div className="flex flex-row-reverse">
           <ProfileLink
-            url="https://github.com/jhavej"
+            url="https://github.com/alankemboi"
             icon={<GitHub className="h-5 w-5" />}
             title="GitHub"
           />
           <ProfileLink
-            url="https://twitter.com/jakubhavej"
+            url="https://twitter.com/rxbzes"
             icon={<Twitter className="h-5 w-5 fill-current" />}
             title="Twitter"
           />
